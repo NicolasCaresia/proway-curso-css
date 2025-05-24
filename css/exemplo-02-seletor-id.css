@@ -1,0 +1,13 @@
+img{
+    width: 50px;
+}
+
+
+/*seletor de id, ou seja, o elemento que conter o id="filme-lilo-stitch" sera aplicado o css abaixo */
+#filme-lilo-stitch {
+        width: 250px;
+}
+
+#filme-rio-2 {
+    width: 200px;
+}
